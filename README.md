@@ -1,5 +1,5 @@
 # HTML and CSS Projects
-Understanding HTML and CSS
+Understanding HTML and CSS. Here are the sample websites.
 
 # **Academy Cinemas**
 Academy Cinemas is a single-page movie theater website built with HTML sections for movie listings, showtimes, ticket selection, and contact details. It uses Bootstrap for layout and navigation, with custom CSS for the cinema-themed colors and background, hover effects, and responsive styling. The movie dropdown and navigation links jump to sections on the page.
@@ -15,3 +15,6 @@ This page is a personal portfolio for a software developer. It introduces the de
 
 # **Simple Recipes** 
 This page is a recipe page built with HTML sections, headings, images, and forms. Its CSS uses a sticky navigation bar with a hover dropdown, custom fonts and colors, and styled recipe cards to organize the dishes and their details.
+
+# **The Pet Shop Website** 
+This page is a pet showcase with sections for cats, dogs, rabbits, guinea pigs, fish, and reptiles, plus a video section and a separate contact page. It uses HTML navigation links and forms, with CSS for a sticky navigation bar, animated welcome text, image overlays, and hover effects.
